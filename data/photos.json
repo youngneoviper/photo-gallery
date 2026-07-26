@@ -1,6 +1,627 @@
 [
   {
-    "file": "DSCF2449.JPG",
+    "file": "charmera/PICT0019.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        22,
+        15,
+        22
+      ],
+      "hex": "#160f16",
+      "hue": 300.0,
+      "saturation": 0.318,
+      "value": 0.086
+    },
+    "brightness": 0.373,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:05:24 02:17:04",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 253859
+  },
+  {
+    "file": "charmera/PICT0035.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        163,
+        153,
+        155
+      ],
+      "hex": "#a3999b",
+      "hue": 348.0,
+      "saturation": 0.061,
+      "value": 0.639
+    },
+    "brightness": 0.559,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:06:12 12:54:59",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 172557
+  },
+  {
+    "file": "charmera/PICT0036.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        11,
+        8,
+        38
+      ],
+      "hex": "#0b0826",
+      "hue": 246.0,
+      "saturation": 0.789,
+      "value": 0.149
+    },
+    "brightness": 0.456,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:02:22 21:48:31",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 219374
+  },
+  {
+    "file": "charmera/PICT0039.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        55,
+        42,
+        54
+      ],
+      "hex": "#372a36",
+      "hue": 304.6,
+      "saturation": 0.236,
+      "value": 0.216
+    },
+    "brightness": 0.536,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:06:14 10:54:50",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 160668
+  },
+  {
+    "file": "charmera/PICT0045.jpg",
+    "collection": "charmera",
+    "width": 1080,
+    "height": 1440,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        68,
+        46,
+        50
+      ],
+      "hex": "#442e32",
+      "hue": 349.1,
+      "saturation": 0.324,
+      "value": 0.267
+    },
+    "brightness": 0.563,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:03:30 13:40:59",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 299789
+  },
+  {
+    "file": "charmera/PICT0050.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        39,
+        40,
+        38
+      ],
+      "hex": "#272826",
+      "hue": 90.0,
+      "saturation": 0.05,
+      "value": 0.157
+    },
+    "brightness": 0.458,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:06:16 18:07:21",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 190441
+  },
+  {
+    "file": "charmera/PICT0051.jpg",
+    "collection": "charmera",
+    "width": 1080,
+    "height": 1440,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        3,
+        2,
+        0
+      ],
+      "hex": "#030200",
+      "hue": 40.0,
+      "saturation": 1.0,
+      "value": 0.012
+    },
+    "brightness": 0.216,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:04:25 20:28:44",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 112968
+  },
+  {
+    "file": "charmera/PICT0053.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        41,
+        40,
+        68
+      ],
+      "hex": "#292844",
+      "hue": 242.1,
+      "saturation": 0.412,
+      "value": 0.267
+    },
+    "brightness": 0.599,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:06:25 18:09:00",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 180460
+  },
+  {
+    "file": "charmera/PICT0062.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        24,
+        25,
+        24
+      ],
+      "hex": "#181918",
+      "hue": 120.0,
+      "saturation": 0.04,
+      "value": 0.098
+    },
+    "brightness": 0.216,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:01:31 23:55:00",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 141570
+  },
+  {
+    "file": "charmera/PICT0065.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        8,
+        9,
+        9
+      ],
+      "hex": "#080909",
+      "hue": 180.0,
+      "saturation": 0.111,
+      "value": 0.035
+    },
+    "brightness": 0.079,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2026:01:31 23:55:21",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 114636
+  },
+  {
+    "file": "charmera/PICT0073.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        116,
+        115,
+        116
+      ],
+      "hex": "#747374",
+      "hue": 300.0,
+      "saturation": 0.009,
+      "value": 0.455
+    },
+    "brightness": 0.433,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:01:04 01:22:00",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 126594
+  },
+  {
+    "file": "charmera/PICT0074.jpg",
+    "collection": "charmera",
+    "width": 1080,
+    "height": 1440,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        161,
+        149,
+        140
+      ],
+      "hex": "#a1958c",
+      "hue": 25.7,
+      "saturation": 0.13,
+      "value": 0.631
+    },
+    "brightness": 0.555,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:01:08 02:48:43",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 182844
+  },
+  {
+    "file": "charmera/PICT0076.jpg",
+    "collection": "charmera",
+    "width": 1080,
+    "height": 1440,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        37,
+        34,
+        44
+      ],
+      "hex": "#25222c",
+      "hue": 258.0,
+      "saturation": 0.227,
+      "value": 0.173
+    },
+    "brightness": 0.494,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:01:08 02:48:54",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 228741
+  },
+  {
+    "file": "charmera/PICT0077.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        30,
+        31,
+        46
+      ],
+      "hex": "#1e1f2e",
+      "hue": 236.2,
+      "saturation": 0.348,
+      "value": 0.18
+    },
+    "brightness": 0.515,
+    "exif": {
+      "Make": "Generalplus",
+      "Model": "CBB3",
+      "DateTimeOriginal": "2025:01:08 02:59:09",
+      "ISOSpeedRatings": 153.0,
+      "FNumber": 3.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 5.0,
+      "LensModel": null
+    },
+    "size_bytes": 203535
+  },
+  {
+    "file": "charmera/PICT0084.jpg",
+    "collection": "charmera",
+    "width": 1440,
+    "height": 1080,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        30,
+        33,
+        45
+      ],
+      "hex": "#1e212d",
+      "hue": 228.0,
+      "saturation": 0.333,
+      "value": 0.176
+    },
+    "brightness": 0.47,
+    "exif": {
+      "Make": null,
+      "Model": null,
+      "DateTimeOriginal": null,
+      "ISOSpeedRatings": null,
+      "FNumber": null,
+      "ExposureTime": null,
+      "FocalLength": null,
+      "LensModel": null
+    },
+    "size_bytes": 270866
+  },
+  {
+    "file": "digital/DSCF2429.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        30,
+        32,
+        50
+      ],
+      "hex": "#1e2032",
+      "hue": 234.0,
+      "saturation": 0.4,
+      "value": 0.196
+    },
+    "brightness": 0.443,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 14:27:47",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0013,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4238398
+  },
+  {
+    "file": "digital/DSCF2436.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        120,
+        103,
+        80
+      ],
+      "hex": "#786750",
+      "hue": 34.5,
+      "saturation": 0.333,
+      "value": 0.471
+    },
+    "brightness": 0.485,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 14:32:39",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4314024
+  },
+  {
+    "file": "digital/DSCF2442.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        72,
+        92,
+        34
+      ],
+      "hex": "#485c22",
+      "hue": 80.7,
+      "saturation": 0.63,
+      "value": 0.361
+    },
+    "brightness": 0.483,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 14:54:31",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 3.2,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4458438
+  },
+  {
+    "file": "digital/DSCF2444.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        66,
+        88,
+        34
+      ],
+      "hex": "#425822",
+      "hue": 84.4,
+      "saturation": 0.614,
+      "value": 0.345
+    },
+    "brightness": 0.462,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 14:55:07",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.2,
+      "ExposureTime": 0.0013,
+      "FocalLength": 13.2,
+      "LensModel": null
+    },
+    "size_bytes": 4854226
+  },
+  {
+    "file": "digital/DSCF2445.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        84,
+        91,
+        53
+      ],
+      "hex": "#545b35",
+      "hue": 71.1,
+      "saturation": 0.418,
+      "value": 0.357
+    },
+    "brightness": 0.471,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 14:55:12",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.2,
+      "ExposureTime": 0.0018,
+      "FocalLength": 13.2,
+      "LensModel": null
+    },
+    "size_bytes": 4758105
+  },
+  {
+    "file": "digital/DSCF2449.JPG",
+    "collection": "digital",
     "width": 4000,
     "height": 3000,
     "aspect": 1.3333,
@@ -30,7 +651,101 @@
     "size_bytes": 5138683
   },
   {
-    "file": "DSCF2469.JPG",
+    "file": "digital/DSCF2458.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        26,
+        17,
+        19
+      ],
+      "hex": "#1a1113",
+      "hue": 346.7,
+      "saturation": 0.346,
+      "value": 0.102
+    },
+    "brightness": 0.489,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 15:26:23",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0013,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 3946501
+  },
+  {
+    "file": "digital/DSCF2460.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        24,
+        18,
+        23
+      ],
+      "hex": "#181217",
+      "hue": 310.0,
+      "saturation": 0.25,
+      "value": 0.094
+    },
+    "brightness": 0.499,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 15:26:35",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0011,
+      "FocalLength": 9.7,
+      "LensModel": null
+    },
+    "size_bytes": 3838305
+  },
+  {
+    "file": "digital/DSCF2467.JPG",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        223,
+        228,
+        242
+      ],
+      "hex": "#dfe4f2",
+      "hue": 224.2,
+      "saturation": 0.079,
+      "value": 0.949
+    },
+    "brightness": 0.901,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 16:06:29",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 3.2,
+      "ExposureTime": 0.001,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 2386845
+  },
+  {
+    "file": "digital/DSCF2469.JPG",
+    "collection": "digital",
     "width": 4000,
     "height": 3000,
     "aspect": 1.3333,
@@ -60,7 +775,132 @@
     "size_bytes": 4552906
   },
   {
-    "file": "DSCF2498.JPG",
+    "file": "digital/DSCF2477.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        160,
+        126,
+        161
+      ],
+      "hex": "#a07ea1",
+      "hue": 298.3,
+      "saturation": 0.217,
+      "value": 0.631
+    },
+    "brightness": 0.478,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 16:27:32",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 5449096
+  },
+  {
+    "file": "digital/DSCF2482.JPG",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        153,
+        139,
+        121
+      ],
+      "hex": "#998b79",
+      "hue": 33.7,
+      "saturation": 0.209,
+      "value": 0.6
+    },
+    "brightness": 0.498,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 16:50:24",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0012,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 5468278
+  },
+  {
+    "file": "digital/DSCF2486.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        97,
+        89,
+        71
+      ],
+      "hex": "#615947",
+      "hue": 41.5,
+      "saturation": 0.268,
+      "value": 0.38
+    },
+    "brightness": 0.492,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 17:08:09",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 3.4,
+      "ExposureTime": 0.0031,
+      "FocalLength": 8.3,
+      "LensModel": null
+    },
+    "size_bytes": 4777864
+  },
+  {
+    "file": "digital/DSCF2491.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        245,
+        245,
+        245
+      ],
+      "hex": "#f5f5f5",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.961
+    },
+    "brightness": 0.435,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 17:09:48",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 3.2,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4246944
+  },
+  {
+    "file": "digital/DSCF2498.JPG",
+    "collection": "digital",
     "width": 4000,
     "height": 3000,
     "aspect": 1.3333,
@@ -90,7 +930,39 @@
     "size_bytes": 4574599
   },
   {
-    "file": "DSCF2504.JPG",
+    "file": "digital/DSCF2501.JPG",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        2,
+        3,
+        6
+      ],
+      "hex": "#020306",
+      "hue": 225.0,
+      "saturation": 0.667,
+      "value": 0.024
+    },
+    "brightness": 0.273,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 19:10:37",
+      "ISOSpeedRatings": 3200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0667,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4400256
+  },
+  {
+    "file": "digital/DSCF2504.JPG",
+    "collection": "digital",
     "width": 3000,
     "height": 4000,
     "aspect": 0.75,
@@ -120,7 +992,163 @@
     "size_bytes": 3237696
   },
   {
-    "file": "DSCF2544.JPG",
+    "file": "digital/DSCF2505.JPG",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.0
+    },
+    "brightness": 0.156,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 19:26:22",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0667,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 3104202
+  },
+  {
+    "file": "digital/DSCF2515.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        88,
+        68,
+        41
+      ],
+      "hex": "#584429",
+      "hue": 34.5,
+      "saturation": 0.534,
+      "value": 0.345
+    },
+    "brightness": 0.474,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:11 16:37:52",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0012,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4668640
+  },
+  {
+    "file": "digital/DSCF2518.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        245,
+        242,
+        237
+      ],
+      "hex": "#f5f2ed",
+      "hue": 37.5,
+      "saturation": 0.033,
+      "value": 0.961
+    },
+    "brightness": 0.423,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:11 16:39:30",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 5.0,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4412180
+  },
+  {
+    "file": "digital/DSCF2533.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        160,
+        151,
+        164
+      ],
+      "hex": "#a097a4",
+      "hue": 281.5,
+      "saturation": 0.079,
+      "value": 0.643
+    },
+    "brightness": 0.487,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:11 16:46:17",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.7,
+      "LensModel": null
+    },
+    "size_bytes": 3904225
+  },
+  {
+    "file": "digital/DSCF2534.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        165,
+        146,
+        152
+      ],
+      "hex": "#a59298",
+      "hue": 341.1,
+      "saturation": 0.115,
+      "value": 0.647
+    },
+    "brightness": 0.503,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:11 16:48:02",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.7,
+      "LensModel": null
+    },
+    "size_bytes": 4313014
+  },
+  {
+    "file": "digital/DSCF2544.JPG",
+    "collection": "digital",
     "width": 3000,
     "height": 4000,
     "aspect": 0.75,
@@ -150,7 +1178,8 @@
     "size_bytes": 5148699
   },
   {
-    "file": "DSCF2575.JPG",
+    "file": "digital/DSCF2575.JPG",
+    "collection": "digital",
     "width": 3000,
     "height": 4000,
     "aspect": 0.75,
@@ -178,5 +1207,3973 @@
       "LensModel": null
     },
     "size_bytes": 5096079
+  },
+  {
+    "file": "digital/DSCF2579.JPG",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        152,
+        79,
+        83
+      ],
+      "hex": "#984f53",
+      "hue": 356.7,
+      "saturation": 0.48,
+      "value": 0.596
+    },
+    "brightness": 0.467,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:12 13:19:57",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0048,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 5009993
+  },
+  {
+    "file": "digital/DSCF2581.JPG",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        151,
+        122,
+        104
+      ],
+      "hex": "#977a68",
+      "hue": 23.0,
+      "saturation": 0.311,
+      "value": 0.592
+    },
+    "brightness": 0.431,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:12 13:21:41",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.005,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4731504
+  },
+  {
+    "file": "digital/DSCF2585.JPG",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        97,
+        70,
+        47
+      ],
+      "hex": "#61462f",
+      "hue": 27.6,
+      "saturation": 0.515,
+      "value": 0.38
+    },
+    "brightness": 0.514,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:12 13:22:48",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0045,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 5185168
+  },
+  {
+    "file": "digital/DSCF2734.jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        120,
+        109,
+        105
+      ],
+      "hex": "#786d69",
+      "hue": 16.0,
+      "saturation": 0.125,
+      "value": 0.471
+    },
+    "brightness": 0.484,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2026:03:29 13:13:07",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1612031
+  },
+  {
+    "file": "digital/DSCF2737.jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        107,
+        104,
+        104
+      ],
+      "hex": "#6b6868",
+      "hue": 0.0,
+      "saturation": 0.028,
+      "value": 0.42
+    },
+    "brightness": 0.437,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2026:03:29 13:13:46",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 6.4,
+      "ExposureTime": 0.0013,
+      "FocalLength": 10.1,
+      "LensModel": null
+    },
+    "size_bytes": 1489755
+  },
+  {
+    "file": "digital/DSCF2739.jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        104,
+        97,
+        100
+      ],
+      "hex": "#686164",
+      "hue": 334.3,
+      "saturation": 0.067,
+      "value": 0.408
+    },
+    "brightness": 0.452,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2026:03:29 13:17:38",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 5.6,
+      "ExposureTime": 0.0012,
+      "FocalLength": 14.3,
+      "LensModel": null
+    },
+    "size_bytes": 1433222
+  },
+  {
+    "file": "digital/DSCF2743.jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        102,
+        103,
+        109
+      ],
+      "hex": "#66676d",
+      "hue": 231.4,
+      "saturation": 0.064,
+      "value": 0.427
+    },
+    "brightness": 0.465,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2026:03:29 13:25:18",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 6.4,
+      "ExposureTime": 0.0018,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1705130
+  },
+  {
+    "file": "digital/FujiElements25 (1 of 11).jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        21,
+        9,
+        8
+      ],
+      "hex": "#150908",
+      "hue": 4.6,
+      "saturation": 0.619,
+      "value": 0.082
+    },
+    "brightness": 0.255,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:09 14:21:14",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0029,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 2181245
+  },
+  {
+    "file": "digital/FujiElements25 (10 of 11).jpg",
+    "collection": "digital",
+    "width": 3796,
+    "height": 2847,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        3,
+        1,
+        12
+      ],
+      "hex": "#03010c",
+      "hue": 250.9,
+      "saturation": 0.917,
+      "value": 0.047
+    },
+    "brightness": 0.101,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 23:11:29",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0333,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1567611
+  },
+  {
+    "file": "digital/FujiElements25 (11 of 11).jpg",
+    "collection": "digital",
+    "width": 2594,
+    "height": 3458,
+    "aspect": 0.7501,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        113,
+        59,
+        36
+      ],
+      "hex": "#713b24",
+      "hue": 17.9,
+      "saturation": 0.681,
+      "value": 0.443
+    },
+    "brightness": 0.319,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 23:14:34",
+      "ISOSpeedRatings": 3200.0,
+      "FNumber": 3.4,
+      "ExposureTime": 0.0667,
+      "FocalLength": 8.3,
+      "LensModel": null
+    },
+    "size_bytes": 2337222
+  },
+  {
+    "file": "digital/FujiElements25 (2 of 11).jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        23,
+        24,
+        19
+      ],
+      "hex": "#171813",
+      "hue": 72.0,
+      "saturation": 0.208,
+      "value": 0.094
+    },
+    "brightness": 0.289,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:09 14:40:58",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0013,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 3055851
+  },
+  {
+    "file": "digital/FujiElements25 (3 of 11).jpg",
+    "collection": "digital",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        23,
+        52,
+        103
+      ],
+      "hex": "#173467",
+      "hue": 218.2,
+      "saturation": 0.777,
+      "value": 0.404
+    },
+    "brightness": 0.171,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:09 16:38:31",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 6.4,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1065901
+  },
+  {
+    "file": "digital/FujiElements25 (4 of 11).jpg",
+    "collection": "digital",
+    "width": 2803,
+    "height": 3737,
+    "aspect": 0.7501,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        168,
+        148,
+        129
+      ],
+      "hex": "#a89481",
+      "hue": 29.2,
+      "saturation": 0.232,
+      "value": 0.659
+    },
+    "brightness": 0.337,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 19:17:35",
+      "ISOSpeedRatings": 160.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0063,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1805460
+  },
+  {
+    "file": "digital/FujiElements25 (5 of 11).jpg",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        22,
+        4,
+        27
+      ],
+      "hex": "#16041b",
+      "hue": 287.0,
+      "saturation": 0.852,
+      "value": 0.106
+    },
+    "brightness": 0.278,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 20:36:16",
+      "ISOSpeedRatings": 1600.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.1,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 2269887
+  },
+  {
+    "file": "digital/FujiElements25 (6 of 11).jpg",
+    "collection": "digital",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        6,
+        2,
+        48
+      ],
+      "hex": "#060230",
+      "hue": 245.2,
+      "saturation": 0.958,
+      "value": 0.188
+    },
+    "brightness": 0.154,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 21:32:34",
+      "ISOSpeedRatings": 3200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0286,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1768471
+  },
+  {
+    "file": "digital/FujiElements25 (7 of 11).jpg",
+    "collection": "digital",
+    "width": 2752,
+    "height": 3670,
+    "aspect": 0.7499,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        16,
+        2,
+        5
+      ],
+      "hex": "#100205",
+      "hue": 347.1,
+      "saturation": 0.875,
+      "value": 0.063
+    },
+    "brightness": 0.202,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 21:48:11",
+      "ISOSpeedRatings": 2500.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0167,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1657154
+  },
+  {
+    "file": "digital/FujiElements25 (8 of 11).jpg",
+    "collection": "digital",
+    "width": 2625,
+    "height": 3500,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        12,
+        9,
+        28
+      ],
+      "hex": "#0c091c",
+      "hue": 249.5,
+      "saturation": 0.679,
+      "value": 0.11
+    },
+    "brightness": 0.234,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 22:09:25",
+      "ISOSpeedRatings": 3200.0,
+      "FNumber": 2.8,
+      "ExposureTime": 0.0667,
+      "FocalLength": 8.0,
+      "LensModel": null
+    },
+    "size_bytes": 2103470
+  },
+  {
+    "file": "digital/FujiElements25 (9 of 11).jpg",
+    "collection": "digital",
+    "width": 3501,
+    "height": 2626,
+    "aspect": 1.3332,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        12,
+        22,
+        36
+      ],
+      "hex": "#0c1624",
+      "hue": 215.0,
+      "saturation": 0.667,
+      "value": 0.141
+    },
+    "brightness": 0.262,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:08:10 22:18:08",
+      "ISOSpeedRatings": 3200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0286,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 1703454
+  },
+  {
+    "file": "digital/m+j-100.jpg",
+    "collection": "digital",
+    "width": 5143,
+    "height": 7710,
+    "aspect": 0.6671,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        120,
+        106,
+        86
+      ],
+      "hex": "#786a56",
+      "hue": 35.3,
+      "saturation": 0.283,
+      "value": 0.471
+    },
+    "brightness": 0.31,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:19:25",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0013,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 12113025
+  },
+  {
+    "file": "digital/m+j-101.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        57,
+        52,
+        36
+      ],
+      "hex": "#393424",
+      "hue": 45.7,
+      "saturation": 0.368,
+      "value": 0.224
+    },
+    "brightness": 0.331,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:19:33",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0013,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 15208037
+  },
+  {
+    "file": "digital/m+j-106.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        131,
+        131,
+        131
+      ],
+      "hex": "#838383",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.514
+    },
+    "brightness": 0.403,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:20:21",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0013,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 5789659
+  },
+  {
+    "file": "digital/m+j-107.jpg",
+    "collection": "digital",
+    "width": 7814,
+    "height": 5212,
+    "aspect": 1.4992,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        118,
+        99,
+        79
+      ],
+      "hex": "#76634f",
+      "hue": 30.8,
+      "saturation": 0.331,
+      "value": 0.463
+    },
+    "brightness": 0.451,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:21:58",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 47.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 21860838
+  },
+  {
+    "file": "digital/m+j-108.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        70,
+        70,
+        70
+      ],
+      "hex": "#464646",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.275
+    },
+    "brightness": 0.31,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:24:23",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0016,
+      "FocalLength": 35.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 7467160
+  },
+  {
+    "file": "digital/m+j-109.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        75,
+        63,
+        40
+      ],
+      "hex": "#4b3f28",
+      "hue": 39.4,
+      "saturation": 0.467,
+      "value": 0.294
+    },
+    "brightness": 0.263,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:24:28",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0016,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 6287086
+  },
+  {
+    "file": "digital/m+j-11.jpg",
+    "collection": "digital",
+    "width": 3469,
+    "height": 5201,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        3,
+        3,
+        3
+      ],
+      "hex": "#030303",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.012
+    },
+    "brightness": 0.173,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:29:09",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 3716453
+  },
+  {
+    "file": "digital/m+j-110.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        106,
+        103,
+        64
+      ],
+      "hex": "#6a6740",
+      "hue": 55.7,
+      "saturation": 0.396,
+      "value": 0.416
+    },
+    "brightness": 0.332,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:25:18",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 15595323
+  },
+  {
+    "file": "digital/m+j-111.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        11,
+        11,
+        9
+      ],
+      "hex": "#0b0b09",
+      "hue": 60.0,
+      "saturation": 0.182,
+      "value": 0.043
+    },
+    "brightness": 0.364,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:25:27",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 17824987
+  },
+  {
+    "file": "digital/m+j-112.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        7,
+        5,
+        4
+      ],
+      "hex": "#070504",
+      "hue": 20.0,
+      "saturation": 0.429,
+      "value": 0.027
+    },
+    "brightness": 0.371,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:25:32",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 20088569
+  },
+  {
+    "file": "digital/m+j-113.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        17,
+        17,
+        14
+      ],
+      "hex": "#11110e",
+      "hue": 60.0,
+      "saturation": 0.176,
+      "value": 0.067
+    },
+    "brightness": 0.388,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:25:33",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 53.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 18949219
+  },
+  {
+    "file": "digital/m+j-114.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        54,
+        49,
+        21
+      ],
+      "hex": "#363115",
+      "hue": 50.9,
+      "saturation": 0.611,
+      "value": 0.212
+    },
+    "brightness": 0.404,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:26:42",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 16.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 8443299
+  },
+  {
+    "file": "digital/m+j-116.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        67,
+        81,
+        27
+      ],
+      "hex": "#43511b",
+      "hue": 75.6,
+      "saturation": 0.667,
+      "value": 0.318
+    },
+    "brightness": 0.347,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:28:01",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.001,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 13992070
+  },
+  {
+    "file": "digital/m+j-117.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        58,
+        58,
+        58
+      ],
+      "hex": "#3a3a3a",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.227
+    },
+    "brightness": 0.321,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:28:02",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.001,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 5024035
+  },
+  {
+    "file": "digital/m+j-118.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        53,
+        62,
+        26
+      ],
+      "hex": "#353e1a",
+      "hue": 75.0,
+      "saturation": 0.581,
+      "value": 0.243
+    },
+    "brightness": 0.332,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:28:04",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.001,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 15533777
+  },
+  {
+    "file": "digital/m+j-119.jpg",
+    "collection": "digital",
+    "width": 2927,
+    "height": 4389,
+    "aspect": 0.6669,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        61,
+        61,
+        61
+      ],
+      "hex": "#3d3d3d",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.239
+    },
+    "brightness": 0.265,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:28:36",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 61.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 1876704
+  },
+  {
+    "file": "digital/m+j-12.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        104,
+        104,
+        104
+      ],
+      "hex": "#686868",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.408
+    },
+    "brightness": 0.334,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:29:09",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 14580499
+  },
+  {
+    "file": "digital/m+j-121.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        146,
+        139,
+        58
+      ],
+      "hex": "#928b3a",
+      "hue": 55.2,
+      "saturation": 0.603,
+      "value": 0.573
+    },
+    "brightness": 0.629,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:30:47",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.02,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 18275463
+  },
+  {
+    "file": "digital/m+j-122.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        63,
+        63,
+        63
+      ],
+      "hex": "#3f3f3f",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.247
+    },
+    "brightness": 0.35,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:31:41",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 3.2,
+      "ExposureTime": 0.0013,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 6376569
+  },
+  {
+    "file": "digital/m+j-14.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        109,
+        84,
+        50
+      ],
+      "hex": "#6d5432",
+      "hue": 34.6,
+      "saturation": 0.541,
+      "value": 0.427
+    },
+    "brightness": 0.378,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:30:06",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 28306463
+  },
+  {
+    "file": "digital/m+j-15.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        101,
+        81,
+        55
+      ],
+      "hex": "#655137",
+      "hue": 33.9,
+      "saturation": 0.455,
+      "value": 0.396
+    },
+    "brightness": 0.363,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:31:05",
+      "ISOSpeedRatings": 800.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 20178862
+  },
+  {
+    "file": "digital/m+j-16.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        1,
+        1,
+        1
+      ],
+      "hex": "#010101",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.004
+    },
+    "brightness": 0.148,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:31:06",
+      "ISOSpeedRatings": 800.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 55.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 7975733
+  },
+  {
+    "file": "digital/m+j-19.jpg",
+    "collection": "digital",
+    "width": 4803,
+    "height": 7201,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        129,
+        101,
+        67
+      ],
+      "hex": "#816543",
+      "hue": 32.9,
+      "saturation": 0.481,
+      "value": 0.506
+    },
+    "brightness": 0.457,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:34:09",
+      "ISOSpeedRatings": 800.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 35.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 23185445
+  },
+  {
+    "file": "digital/m+j-2.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        34,
+        12,
+        4
+      ],
+      "hex": "#220c04",
+      "hue": 16.0,
+      "saturation": 0.882,
+      "value": 0.133
+    },
+    "brightness": 0.197,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:25:26",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 29398317
+  },
+  {
+    "file": "digital/m+j-20.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        87,
+        73,
+        54
+      ],
+      "hex": "#574936",
+      "hue": 34.5,
+      "saturation": 0.379,
+      "value": 0.341
+    },
+    "brightness": 0.316,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:34:14",
+      "ISOSpeedRatings": 800.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 31043490
+  },
+  {
+    "file": "digital/m+j-22.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        48,
+        48,
+        48
+      ],
+      "hex": "#303030",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.188
+    },
+    "brightness": 0.223,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:34:16",
+      "ISOSpeedRatings": 800.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 11652993
+  },
+  {
+    "file": "digital/m+j-23.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        118,
+        107,
+        88
+      ],
+      "hex": "#766b58",
+      "hue": 38.0,
+      "saturation": 0.254,
+      "value": 0.463
+    },
+    "brightness": 0.39,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:34:19",
+      "ISOSpeedRatings": 800.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 20308875
+  },
+  {
+    "file": "digital/m+j-25.jpg",
+    "collection": "digital",
+    "width": 8068,
+    "height": 5381,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        134,
+        110,
+        81
+      ],
+      "hex": "#866e51",
+      "hue": 32.8,
+      "saturation": 0.396,
+      "value": 0.525
+    },
+    "brightness": 0.332,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:36:39",
+      "ISOSpeedRatings": 1000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 55.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 26261359
+  },
+  {
+    "file": "digital/m+j-26.jpg",
+    "collection": "digital",
+    "width": 7958,
+    "height": 5308,
+    "aspect": 1.4992,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        12,
+        12,
+        12
+      ],
+      "hex": "#0c0c0c",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.047
+    },
+    "brightness": 0.164,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:36:40",
+      "ISOSpeedRatings": 1000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 7896888
+  },
+  {
+    "file": "digital/m+j-27.jpg",
+    "collection": "digital",
+    "width": 7933,
+    "height": 5291,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        174,
+        150,
+        124
+      ],
+      "hex": "#ae967c",
+      "hue": 31.2,
+      "saturation": 0.287,
+      "value": 0.682
+    },
+    "brightness": 0.275,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:36:41",
+      "ISOSpeedRatings": 1000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 21106177
+  },
+  {
+    "file": "digital/m+j-28.jpg",
+    "collection": "digital",
+    "width": 4724,
+    "height": 7082,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        96,
+        83,
+        61
+      ],
+      "hex": "#60533d",
+      "hue": 37.7,
+      "saturation": 0.365,
+      "value": 0.376
+    },
+    "brightness": 0.429,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:36:43",
+      "ISOSpeedRatings": 1000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 15478017
+  },
+  {
+    "file": "digital/m+j-3.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "hex": "#333333",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.2
+    },
+    "brightness": 0.199,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:25:30",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 63.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 8285397
+  },
+  {
+    "file": "digital/m+j-31.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        98,
+        77,
+        47
+      ],
+      "hex": "#624d2f",
+      "hue": 35.3,
+      "saturation": 0.52,
+      "value": 0.384
+    },
+    "brightness": 0.354,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:38:53",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22652814
+  },
+  {
+    "file": "digital/m+j-32.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        91,
+        91,
+        91
+      ],
+      "hex": "#5b5b5b",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.357
+    },
+    "brightness": 0.393,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:38:58",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 8115554
+  },
+  {
+    "file": "digital/m+j-33.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        120,
+        99,
+        71
+      ],
+      "hex": "#786347",
+      "hue": 34.3,
+      "saturation": 0.408,
+      "value": 0.471
+    },
+    "brightness": 0.449,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:39:45",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 17441909
+  },
+  {
+    "file": "digital/m+j-34.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "hex": "#111111",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.067
+    },
+    "brightness": 0.334,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:39:50",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 45.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 5505608
+  },
+  {
+    "file": "digital/m+j-35.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        156,
+        147,
+        136
+      ],
+      "hex": "#9c9388",
+      "hue": 33.0,
+      "saturation": 0.128,
+      "value": 0.612
+    },
+    "brightness": 0.489,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:39:51",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 51.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 24413533
+  },
+  {
+    "file": "digital/m+j-37.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        91,
+        76,
+        52
+      ],
+      "hex": "#5b4c34",
+      "hue": 36.9,
+      "saturation": 0.429,
+      "value": 0.357
+    },
+    "brightness": 0.378,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:41:48",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 17482279
+  },
+  {
+    "file": "digital/m+j-38.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        21,
+        16,
+        9
+      ],
+      "hex": "#151009",
+      "hue": 35.0,
+      "saturation": 0.571,
+      "value": 0.082
+    },
+    "brightness": 0.38,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:42:00",
+      "ISOSpeedRatings": 500.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 60.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22458054
+  },
+  {
+    "file": "digital/m+j-39.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        38,
+        29,
+        15
+      ],
+      "hex": "#261d0f",
+      "hue": 36.5,
+      "saturation": 0.605,
+      "value": 0.149
+    },
+    "brightness": 0.298,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:42:08",
+      "ISOSpeedRatings": 500.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 17231713
+  },
+  {
+    "file": "digital/m+j-4.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        40,
+        15,
+        6
+      ],
+      "hex": "#280f06",
+      "hue": 15.9,
+      "saturation": 0.85,
+      "value": 0.157
+    },
+    "brightness": 0.181,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:25:31",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 64.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 29606974
+  },
+  {
+    "file": "digital/m+j-40.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        102,
+        80,
+        52
+      ],
+      "hex": "#665034",
+      "hue": 33.6,
+      "saturation": 0.49,
+      "value": 0.4
+    },
+    "brightness": 0.413,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:42:34",
+      "ISOSpeedRatings": 500.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22982578
+  },
+  {
+    "file": "digital/m+j-41.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        124,
+        124,
+        124
+      ],
+      "hex": "#7c7c7c",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.486
+    },
+    "brightness": 0.5,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:44:09",
+      "ISOSpeedRatings": 500.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 54.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 10835803
+  },
+  {
+    "file": "digital/m+j-42.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        107,
+        92,
+        65
+      ],
+      "hex": "#6b5c41",
+      "hue": 38.6,
+      "saturation": 0.393,
+      "value": 0.42
+    },
+    "brightness": 0.408,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:44:10",
+      "ISOSpeedRatings": 500.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 21847490
+  },
+  {
+    "file": "digital/m+j-43.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        63,
+        54,
+        32
+      ],
+      "hex": "#3f3620",
+      "hue": 42.6,
+      "saturation": 0.492,
+      "value": 0.247
+    },
+    "brightness": 0.238,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:44:14",
+      "ISOSpeedRatings": 500.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 6414707
+  },
+  {
+    "file": "digital/m+j-45.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        95,
+        52,
+        20
+      ],
+      "hex": "#5f3414",
+      "hue": 25.6,
+      "saturation": 0.789,
+      "value": 0.373
+    },
+    "brightness": 0.356,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:47:59",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22475334
+  },
+  {
+    "file": "digital/m+j-46.jpg",
+    "collection": "digital",
+    "width": 5074,
+    "height": 7608,
+    "aspect": 0.6669,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        82,
+        43,
+        14
+      ],
+      "hex": "#522b0e",
+      "hue": 25.6,
+      "saturation": 0.829,
+      "value": 0.322
+    },
+    "brightness": 0.238,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:48:06",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 57.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 23991802
+  },
+  {
+    "file": "digital/m+j-47.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        101,
+        61,
+        26
+      ],
+      "hex": "#653d1a",
+      "hue": 28.0,
+      "saturation": 0.743,
+      "value": 0.396
+    },
+    "brightness": 0.215,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:48:14",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 44.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 28994014
+  },
+  {
+    "file": "digital/m+j-48.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        107,
+        62,
+        24
+      ],
+      "hex": "#6b3e18",
+      "hue": 27.5,
+      "saturation": 0.776,
+      "value": 0.42
+    },
+    "brightness": 0.242,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:48:18",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 45.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 30350818
+  },
+  {
+    "file": "digital/m+j-50.jpg",
+    "collection": "digital",
+    "width": 7924,
+    "height": 5285,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        71,
+        35,
+        9
+      ],
+      "hex": "#472309",
+      "hue": 25.2,
+      "saturation": 0.873,
+      "value": 0.278
+    },
+    "brightness": 0.198,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:48:46",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.004,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 21035931
+  },
+  {
+    "file": "digital/m+j-51.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        57,
+        57,
+        57
+      ],
+      "hex": "#393939",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.224
+    },
+    "brightness": 0.253,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:48:47",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.004,
+      "FocalLength": 35.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 6049084
+  },
+  {
+    "file": "digital/m+j-52.jpg",
+    "collection": "digital",
+    "width": 8116,
+    "height": 5413,
+    "aspect": 1.4994,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        69,
+        35,
+        9
+      ],
+      "hex": "#452309",
+      "hue": 26.0,
+      "saturation": 0.87,
+      "value": 0.271
+    },
+    "brightness": 0.204,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:49:49",
+      "ISOSpeedRatings": 1600.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.004,
+      "FocalLength": 38.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 24557018
+  },
+  {
+    "file": "digital/m+j-53.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        60,
+        29,
+        9
+      ],
+      "hex": "#3c1d09",
+      "hue": 23.5,
+      "saturation": 0.85,
+      "value": 0.235
+    },
+    "brightness": 0.19,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:49:59",
+      "ISOSpeedRatings": 1600.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.004,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 25246918
+  },
+  {
+    "file": "digital/m+j-54.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        2,
+        2,
+        2
+      ],
+      "hex": "#020202",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.008
+    },
+    "brightness": 0.122,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:50:06",
+      "ISOSpeedRatings": 1600.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.004,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 12694035
+  },
+  {
+    "file": "digital/m+j-55.jpg",
+    "collection": "digital",
+    "width": 5001,
+    "height": 7498,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        27,
+        23,
+        14
+      ],
+      "hex": "#1b170e",
+      "hue": 41.5,
+      "saturation": 0.481,
+      "value": 0.106
+    },
+    "brightness": 0.257,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:50:12",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 26600862
+  },
+  {
+    "file": "digital/m+j-57.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        83,
+        38,
+        7
+      ],
+      "hex": "#532607",
+      "hue": 24.5,
+      "saturation": 0.916,
+      "value": 0.325
+    },
+    "brightness": 0.253,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:51:35",
+      "ISOSpeedRatings": 400.0,
+      "FNumber": 3.2,
+      "ExposureTime": 0.04,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22071426
+  },
+  {
+    "file": "digital/m+j-59.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        83,
+        42,
+        13
+      ],
+      "hex": "#532a0d",
+      "hue": 24.9,
+      "saturation": 0.843,
+      "value": 0.325
+    },
+    "brightness": 0.256,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:54:04",
+      "ISOSpeedRatings": 1000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 25034897
+  },
+  {
+    "file": "digital/m+j-61.jpg",
+    "collection": "digital",
+    "width": 8064,
+    "height": 5379,
+    "aspect": 1.4992,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        79,
+        47,
+        14
+      ],
+      "hex": "#4f2f0e",
+      "hue": 30.5,
+      "saturation": 0.823,
+      "value": 0.31
+    },
+    "brightness": 0.183,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:54:08",
+      "ISOSpeedRatings": 1000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 19416064
+  },
+  {
+    "file": "digital/m+j-64.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        69,
+        69,
+        69
+      ],
+      "hex": "#454545",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.271
+    },
+    "brightness": 0.232,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:57:06",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 6197444
+  },
+  {
+    "file": "digital/m+j-65.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        126,
+        100,
+        73
+      ],
+      "hex": "#7e6449",
+      "hue": 30.6,
+      "saturation": 0.421,
+      "value": 0.494
+    },
+    "brightness": 0.415,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:58:08",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 27646665
+  },
+  {
+    "file": "digital/m+j-66.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        60,
+        60,
+        60
+      ],
+      "hex": "#3c3c3c",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.235
+    },
+    "brightness": 0.242,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:58:10",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 7313298
+  },
+  {
+    "file": "digital/m+j-67.jpg",
+    "collection": "digital",
+    "width": 5393,
+    "height": 8086,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        121,
+        102,
+        76
+      ],
+      "hex": "#79664c",
+      "hue": 34.7,
+      "saturation": 0.372,
+      "value": 0.475
+    },
+    "brightness": 0.41,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:58:14",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 25237387
+  },
+  {
+    "file": "digital/m+j-69.jpg",
+    "collection": "digital",
+    "width": 5272,
+    "height": 7904,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        124,
+        102,
+        75
+      ],
+      "hex": "#7c664b",
+      "hue": 33.1,
+      "saturation": 0.395,
+      "value": 0.486
+    },
+    "brightness": 0.415,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:58:40",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 24231093
+  },
+  {
+    "file": "digital/m+j-7.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        96,
+        61,
+        25
+      ],
+      "hex": "#603d19",
+      "hue": 30.4,
+      "saturation": 0.74,
+      "value": 0.376
+    },
+    "brightness": 0.296,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:28:51",
+      "ISOSpeedRatings": 1600.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 25458625
+  },
+  {
+    "file": "digital/m+j-70.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        116,
+        116,
+        116
+      ],
+      "hex": "#747474",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.455
+    },
+    "brightness": 0.371,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:58:41",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 11146608
+  },
+  {
+    "file": "digital/m+j-72.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        83,
+        83,
+        83
+      ],
+      "hex": "#535353",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.325
+    },
+    "brightness": 0.271,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:58:53",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 33.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 10584309
+  },
+  {
+    "file": "digital/m+j-74.jpg",
+    "collection": "digital",
+    "width": 7685,
+    "height": 5126,
+    "aspect": 1.4992,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        148,
+        128,
+        102
+      ],
+      "hex": "#948066",
+      "hue": 33.9,
+      "saturation": 0.311,
+      "value": 0.58
+    },
+    "brightness": 0.414,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:59:47",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 20954617
+  },
+  {
+    "file": "digital/m+j-75.jpg",
+    "collection": "digital",
+    "width": 5295,
+    "height": 7938,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        155,
+        131,
+        105
+      ],
+      "hex": "#9b8369",
+      "hue": 31.2,
+      "saturation": 0.323,
+      "value": 0.608
+    },
+    "brightness": 0.434,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:59:55",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22098086
+  },
+  {
+    "file": "digital/m+j-76.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        122,
+        104,
+        81
+      ],
+      "hex": "#7a6851",
+      "hue": 33.7,
+      "saturation": 0.336,
+      "value": 0.478
+    },
+    "brightness": 0.371,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:59:57",
+      "ISOSpeedRatings": 320.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 32.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 24396213
+  },
+  {
+    "file": "digital/m+j-78.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        87,
+        83,
+        69
+      ],
+      "hex": "#575345",
+      "hue": 46.7,
+      "saturation": 0.207,
+      "value": 0.341
+    },
+    "brightness": 0.426,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:00:56",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 22625554
+  },
+  {
+    "file": "digital/m+j-79.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        138,
+        138,
+        138
+      ],
+      "hex": "#8a8a8a",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.541
+    },
+    "brightness": 0.45,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:00:57",
+      "ISOSpeedRatings": 1250.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 5818110
+  },
+  {
+    "file": "digital/m+j-8.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        132,
+        87,
+        44
+      ],
+      "hex": "#84572c",
+      "hue": 29.3,
+      "saturation": 0.667,
+      "value": 0.518
+    },
+    "brightness": 0.313,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 16:28:55",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0063,
+      "FocalLength": 48.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 35385188
+  },
+  {
+    "file": "digital/m+j-80.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        146,
+        136,
+        125
+      ],
+      "hex": "#92887d",
+      "hue": 31.4,
+      "saturation": 0.144,
+      "value": 0.573
+    },
+    "brightness": 0.607,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:01:04",
+      "ISOSpeedRatings": 2000.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 18299013
+  },
+  {
+    "file": "digital/m+j-83.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        70,
+        57,
+        34
+      ],
+      "hex": "#463922",
+      "hue": 38.3,
+      "saturation": 0.514,
+      "value": 0.275
+    },
+    "brightness": 0.301,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:03:52",
+      "ISOSpeedRatings": 640.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.005,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 7727147
+  },
+  {
+    "file": "digital/m+j-84.jpg",
+    "collection": "digital",
+    "width": 4968,
+    "height": 7449,
+    "aspect": 0.6669,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        53,
+        51,
+        24
+      ],
+      "hex": "#353318",
+      "hue": 55.9,
+      "saturation": 0.547,
+      "value": 0.208
+    },
+    "brightness": 0.206,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:06:37",
+      "ISOSpeedRatings": 250.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0016,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 14968126
+  },
+  {
+    "file": "digital/m+j-85.jpg",
+    "collection": "digital",
+    "width": 5254,
+    "height": 7877,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        17,
+        19,
+        10
+      ],
+      "hex": "#11130a",
+      "hue": 73.3,
+      "saturation": 0.474,
+      "value": 0.075
+    },
+    "brightness": 0.176,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:06:39",
+      "ISOSpeedRatings": 250.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0016,
+      "FocalLength": 50.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 9810578
+  },
+  {
+    "file": "digital/m+j-88.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        27,
+        28,
+        17
+      ],
+      "hex": "#1b1c11",
+      "hue": 65.5,
+      "saturation": 0.393,
+      "value": 0.11
+    },
+    "brightness": 0.466,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:11:36",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.0,
+      "ExposureTime": 0.0031,
+      "FocalLength": 58.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 15480238
+  },
+  {
+    "file": "digital/m+j-89.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        168,
+        149,
+        129
+      ],
+      "hex": "#a89581",
+      "hue": 30.8,
+      "saturation": 0.232,
+      "value": 0.659
+    },
+    "brightness": 0.48,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:11:37",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.0,
+      "ExposureTime": 0.0031,
+      "FocalLength": 66.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 14653382
+  },
+  {
+    "file": "digital/m+j-91.jpg",
+    "collection": "digital",
+    "width": 7082,
+    "height": 4724,
+    "aspect": 1.4992,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        186,
+        165,
+        144
+      ],
+      "hex": "#baa590",
+      "hue": 30.0,
+      "saturation": 0.226,
+      "value": 0.729
+    },
+    "brightness": 0.345,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:12:36",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.6,
+      "ExposureTime": 0.0013,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 18588264
+  },
+  {
+    "file": "digital/m+j-92.jpg",
+    "collection": "digital",
+    "width": 5001,
+    "height": 7498,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        187,
+        166,
+        145
+      ],
+      "hex": "#bba691",
+      "hue": 30.0,
+      "saturation": 0.225,
+      "value": 0.733
+    },
+    "brightness": 0.348,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:12:37",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.6,
+      "ExposureTime": 0.0013,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 20719510
+  },
+  {
+    "file": "digital/m+j-93.jpg",
+    "collection": "digital",
+    "width": 5439,
+    "height": 8154,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        50,
+        55,
+        21
+      ],
+      "hex": "#323715",
+      "hue": 68.8,
+      "saturation": 0.618,
+      "value": 0.216
+    },
+    "brightness": 0.362,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:12:47",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.6,
+      "ExposureTime": 0.0013,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 18250093
+  },
+  {
+    "file": "digital/m+j-94.jpg",
+    "collection": "digital",
+    "width": 7421,
+    "height": 4950,
+    "aspect": 1.4992,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        176,
+        150,
+        127
+      ],
+      "hex": "#b0967f",
+      "hue": 28.2,
+      "saturation": 0.278,
+      "value": 0.69
+    },
+    "brightness": 0.425,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:12:49",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.6,
+      "ExposureTime": 0.0013,
+      "FocalLength": 70.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 18289179
+  },
+  {
+    "file": "digital/m+j-95.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        32,
+        32,
+        32
+      ],
+      "hex": "#202020",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.125
+    },
+    "brightness": 0.465,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:14:28",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 5.6,
+      "ExposureTime": 0.0013,
+      "FocalLength": 28.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 7008359
+  },
+  {
+    "file": "digital/m+j-96.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        28,
+        28,
+        28
+      ],
+      "hex": "#1c1c1c",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.11
+    },
+    "brightness": 0.233,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:16:56",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.0,
+      "ExposureTime": 0.0025,
+      "FocalLength": 66.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 5846942
+  },
+  {
+    "file": "digital/m+j-97.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        18,
+        16,
+        12
+      ],
+      "hex": "#12100c",
+      "hue": 40.0,
+      "saturation": 0.333,
+      "value": 0.071
+    },
+    "brightness": 0.484,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:17:03",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 2.0,
+      "ExposureTime": 0.0008,
+      "FocalLength": 42.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 19184726
+  },
+  {
+    "file": "digital/m+j-98.jpg",
+    "collection": "digital",
+    "width": 8192,
+    "height": 5464,
+    "aspect": 1.4993,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        33,
+        32,
+        21
+      ],
+      "hex": "#212015",
+      "hue": 55.0,
+      "saturation": 0.364,
+      "value": 0.129
+    },
+    "brightness": 0.392,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:19:16",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0013,
+      "FocalLength": 50.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 15147144
+  },
+  {
+    "file": "digital/m+j-99.jpg",
+    "collection": "digital",
+    "width": 5464,
+    "height": 8192,
+    "aspect": 0.667,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        166,
+        166,
+        166
+      ],
+      "hex": "#a6a6a6",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.651
+    },
+    "brightness": 0.381,
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS R5",
+      "DateTimeOriginal": "2026:05:19 17:19:19",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 4.5,
+      "ExposureTime": 0.0013,
+      "FocalLength": 50.0,
+      "LensModel": "RF28-70mm F2 L USM"
+    },
+    "size_bytes": 5551557
+  },
+  {
+    "file": "film/dslr/DSC_6571.jpg",
+    "collection": "film",
+    "width": 2878,
+    "height": 1919,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        184,
+        184,
+        184
+      ],
+      "hex": "#b8b8b8",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.722
+    },
+    "brightness": 0.364,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:20:24",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 699093
+  },
+  {
+    "file": "film/dslr/DSC_6577.jpg",
+    "collection": "film",
+    "width": 1919,
+    "height": 2878,
+    "aspect": 0.6668,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        39,
+        39,
+        39
+      ],
+      "hex": "#272727",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.153
+    },
+    "brightness": 0.51,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:21:43",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 927595
+  },
+  {
+    "file": "film/dslr/DSC_6579.jpg",
+    "collection": "film",
+    "width": 1919,
+    "height": 2878,
+    "aspect": 0.6668,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        12,
+        12,
+        12
+      ],
+      "hex": "#0c0c0c",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.047
+    },
+    "brightness": 0.277,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:22:02",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 692054
+  },
+  {
+    "file": "film/dslr/DSC_6580.jpg",
+    "collection": "film",
+    "width": 2878,
+    "height": 1919,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        40,
+        40,
+        40
+      ],
+      "hex": "#282828",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.157
+    },
+    "brightness": 0.201,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:22:34",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 629511
+  },
+  {
+    "file": "film/dslr/DSC_6591.jpg",
+    "collection": "film",
+    "width": 2878,
+    "height": 1919,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        9,
+        9,
+        9
+      ],
+      "hex": "#090909",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.035
+    },
+    "brightness": 0.058,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:24:27",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 471798
+  },
+  {
+    "file": "film/dslr/DSC_6594.jpg",
+    "collection": "film",
+    "width": 2878,
+    "height": 1919,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        13,
+        13,
+        13
+      ],
+      "hex": "#0d0d0d",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.051
+    },
+    "brightness": 0.406,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:25:11",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 704652
+  },
+  {
+    "file": "film/dslr/DSC_6599.jpg",
+    "collection": "film",
+    "width": 1919,
+    "height": 2878,
+    "aspect": 0.6668,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        157,
+        157,
+        157
+      ],
+      "hex": "#9d9d9d",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.616
+    },
+    "brightness": 0.618,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:26:10",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 697788
+  },
+  {
+    "file": "film/dslr/DSC_6604.jpg",
+    "collection": "film",
+    "width": 1883,
+    "height": 2825,
+    "aspect": 0.6665,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        186,
+        186,
+        186
+      ],
+      "hex": "#bababa",
+      "hue": 0.0,
+      "saturation": 0.0,
+      "value": 0.729
+    },
+    "brightness": 0.61,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:26:58",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.025,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 750969
+  },
+  {
+    "file": "film/dslr/DSC_6613.jpg",
+    "collection": "film",
+    "width": 2869,
+    "height": 1913,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        86,
+        88,
+        97
+      ],
+      "hex": "#565861",
+      "hue": 229.1,
+      "saturation": 0.113,
+      "value": 0.38
+    },
+    "brightness": 0.46,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:35:04",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 672555
+  },
+  {
+    "file": "film/dslr/DSC_6629.jpg",
+    "collection": "film",
+    "width": 2869,
+    "height": 1913,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        152,
+        153,
+        157
+      ],
+      "hex": "#98999d",
+      "hue": 228.0,
+      "saturation": 0.032,
+      "value": 0.616
+    },
+    "brightness": 0.503,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:37:52",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 795637
+  },
+  {
+    "file": "film/dslr/DSC_6633.jpg",
+    "collection": "film",
+    "width": 2869,
+    "height": 1913,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        95,
+        90,
+        80
+      ],
+      "hex": "#5f5a50",
+      "hue": 40.0,
+      "saturation": 0.158,
+      "value": 0.373
+    },
+    "brightness": 0.426,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:38:40",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 748994
+  },
+  {
+    "file": "film/dslr/DSC_6634.jpg",
+    "collection": "film",
+    "width": 2869,
+    "height": 1913,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        56,
+        152,
+        205
+      ],
+      "hex": "#3898cd",
+      "hue": 201.3,
+      "saturation": 0.727,
+      "value": 0.804
+    },
+    "brightness": 0.463,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:38:47",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 881172
+  },
+  {
+    "file": "film/dslr/DSC_6639.jpg",
+    "collection": "film",
+    "width": 1913,
+    "height": 2869,
+    "aspect": 0.6668,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        20,
+        25,
+        8
+      ],
+      "hex": "#141908",
+      "hue": 77.6,
+      "saturation": 0.68,
+      "value": 0.098
+    },
+    "brightness": 0.459,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:39:37",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 770741
+  },
+  {
+    "file": "film/dslr/DSC_6641.jpg",
+    "collection": "film",
+    "width": 2869,
+    "height": 1913,
+    "aspect": 1.4997,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        224,
+        231,
+        241
+      ],
+      "hex": "#e0e7f1",
+      "hue": 215.3,
+      "saturation": 0.071,
+      "value": 0.945
+    },
+    "brightness": 0.559,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:39:47",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 766972
+  },
+  {
+    "file": "film/dslr/DSC_6642.jpg",
+    "collection": "film",
+    "width": 2897,
+    "height": 1931,
+    "aspect": 1.5003,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        143,
+        162,
+        109
+      ],
+      "hex": "#8fa26d",
+      "hue": 81.5,
+      "saturation": 0.327,
+      "value": 0.635
+    },
+    "brightness": 0.494,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:55:47",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 727428
+  },
+  {
+    "file": "film/dslr/DSC_6643.jpg",
+    "collection": "film",
+    "width": 2897,
+    "height": 1931,
+    "aspect": 1.5003,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        24,
+        26,
+        22
+      ],
+      "hex": "#181a16",
+      "hue": 90.0,
+      "saturation": 0.154,
+      "value": 0.102
+    },
+    "brightness": 0.62,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:55:53",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 429264
+  },
+  {
+    "file": "film/dslr/DSC_6649.jpg",
+    "collection": "film",
+    "width": 1931,
+    "height": 2897,
+    "aspect": 0.6666,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        34,
+        27,
+        54
+      ],
+      "hex": "#221b36",
+      "hue": 255.6,
+      "saturation": 0.5,
+      "value": 0.212
+    },
+    "brightness": 0.527,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:56:53",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 716052
+  },
+  {
+    "file": "film/dslr/DSC_6654.jpg",
+    "collection": "film",
+    "width": 2897,
+    "height": 1931,
+    "aspect": 1.5003,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        76,
+        43,
+        28
+      ],
+      "hex": "#4c2b1c",
+      "hue": 18.8,
+      "saturation": 0.632,
+      "value": 0.298
+    },
+    "brightness": 0.559,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:57:50",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 866857
+  },
+  {
+    "file": "film/dslr/DSC_6665.jpg",
+    "collection": "film",
+    "width": 1931,
+    "height": 2897,
+    "aspect": 0.6666,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        113,
+        101,
+        108
+      ],
+      "hex": "#71656c",
+      "hue": 325.0,
+      "saturation": 0.106,
+      "value": 0.443
+    },
+    "brightness": 0.511,
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D3200",
+      "DateTimeOriginal": "2026:06:27 15:59:24",
+      "ISOSpeedRatings": 100.0,
+      "FNumber": 11.0,
+      "ExposureTime": 0.04,
+      "FocalLength": 40.0,
+      "LensModel": "40.0 mm f/2.8"
+    },
+    "size_bytes": 796969
+  },
+  {
+    "file": "film/lab/35mm-22.jpg",
+    "collection": "film",
+    "width": 4423,
+    "height": 2964,
+    "aspect": 1.4922,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        204,
+        182,
+        160
+      ],
+      "hex": "#ccb6a0",
+      "hue": 30.0,
+      "saturation": 0.216,
+      "value": 0.8
+    },
+    "brightness": 0.3,
+    "exif": {
+      "Make": null,
+      "Model": null,
+      "DateTimeOriginal": null,
+      "ISOSpeedRatings": null,
+      "FNumber": null,
+      "ExposureTime": null,
+      "FocalLength": null,
+      "LensModel": null
+    },
+    "size_bytes": 2588268
+  },
+  {
+    "file": "film/lab/35mm-37.jpg",
+    "collection": "film",
+    "width": 2613,
+    "height": 3899,
+    "aspect": 0.6702,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        17,
+        41,
+        40
+      ],
+      "hex": "#112928",
+      "hue": 177.5,
+      "saturation": 0.585,
+      "value": 0.161
+    },
+    "brightness": 0.432,
+    "exif": {
+      "Make": null,
+      "Model": null,
+      "DateTimeOriginal": null,
+      "ISOSpeedRatings": null,
+      "FNumber": null,
+      "ExposureTime": null,
+      "FocalLength": null,
+      "LensModel": null
+    },
+    "size_bytes": 2727106
+  },
+  {
+    "file": "film/lab/35mm-39.jpg",
+    "collection": "film",
+    "width": 4423,
+    "height": 2964,
+    "aspect": 1.4922,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        6,
+        9,
+        4
+      ],
+      "hex": "#060904",
+      "hue": 96.0,
+      "saturation": 0.556,
+      "value": 0.035
+    },
+    "brightness": 0.315,
+    "exif": {
+      "Make": null,
+      "Model": null,
+      "DateTimeOriginal": null,
+      "ISOSpeedRatings": null,
+      "FNumber": null,
+      "ExposureTime": null,
+      "FocalLength": null,
+      "LensModel": null
+    },
+    "size_bytes": 2603065
+  },
+  {
+    "file": "film/lab/35mm-44.jpg",
+    "collection": "film",
+    "width": 2896,
+    "height": 4322,
+    "aspect": 0.6701,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        29,
+        42,
+        25
+      ],
+      "hex": "#1d2a19",
+      "hue": 105.9,
+      "saturation": 0.405,
+      "value": 0.165
+    },
+    "brightness": 0.446,
+    "exif": {
+      "Make": null,
+      "Model": null,
+      "DateTimeOriginal": null,
+      "ISOSpeedRatings": null,
+      "FNumber": null,
+      "ExposureTime": null,
+      "FocalLength": null,
+      "LensModel": null
+    },
+    "size_bytes": 3227235
   }
 ]
