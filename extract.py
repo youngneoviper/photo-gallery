@@ -1,4 +1,4 @@
-import json
+import json, colorsys
 from pathlib import Path
 from PIL import Image, ExifTags, ImageOps
 
@@ -51,15 +51,69 @@ def read_exif(img):
     return out
 
 
-def dominant_color(img, palette_size=5):
-    """Median-cut the image down to a few colors, return the most common as (r,g,b)."""
+def palette(img, top=8):
+    """Bin pixels into fixed HSV regions and count them. Shares are real proportions."""
     small = img.copy()
-    small.thumbnail((120, 120))
-    quantized = small.quantize(colors=palette_size, method=Image.Quantize.MEDIANCUT)
-    palette = quantized.getpalette()
-    counts = sorted(quantized.getcolors(), reverse=True)
-    index = counts[0][1]
-    return tuple(palette[index * 3: index * 3 + 3])
+    small.thumbnail((200, 200))
+    # Posterize to 4 bits/channel so getcolors() returns a manageable number of
+    # unique values — we only need approximate colour, and this makes the loop fast.
+    reduced = ImageOps.posterize(small, 4)
+    unique = reduced.getcolors(65536) or []
+
+    bins = {}
+    total = 0
+    for count, rgb in unique:
+        r, g, b = (c / 255 for c in rgb)
+        hue, sat, val = colorsys.rgb_to_hsv(r, g, b)
+        hue *= 360
+
+        # Dark, pale or washed-out pixels have unreliable hue — bin them by
+        # lightness alone rather than letting rounding noise assign a colour.
+        if val < 0.18 or sat < 0.15 or val > 0.95:
+            key = ("grey", round(val * 6))
+        else:
+            key = ("hue", int(hue // 24), min(2, int(sat * 3)), min(3, int(val * 4)))
+
+        entry = bins.setdefault(key, {"n": 0, "r": 0, "g": 0, "b": 0})
+        entry["n"] += count
+        entry["r"] += rgb[0] * count
+        entry["g"] += rgb[1] * count
+        entry["b"] += rgb[2] * count
+        total += count
+
+    entries = []
+    for key, acc in bins.items():
+        n = acc["n"]
+        rgb = (round(acc["r"] / n), round(acc["g"] / n), round(acc["b"] / n))
+        hue, sat, val = rgb_to_hsv(rgb)
+        share = n / total
+        # sqrt(share) stops big dull areas from dominating; sat squared rewards
+        # purity. A small patch of vivid pink should beat a large patch of mud.
+        salience = (share ** 0.25) * (sat ** 2) * val
+        entries.append({
+            "rgb": list(rgb),
+            "hex": "#{:02x}{:02x}{:02x}".format(*rgb),
+            "hue": hue,
+            "saturation": sat,
+            "value": val,
+            "share": round(share, 4),
+            "salience": round(salience, 5),
+            "achromatic": key[0] == "grey",
+        })
+
+    # Pick on two axes: the biggest areas, and the most eye-catching colours.
+    # Sorting by share alone drops small vivid regions before they're considered.
+    by_share = sorted(entries, key=lambda e: e["share"], reverse=True)
+    by_salience = sorted(entries, key=lambda e: e["salience"], reverse=True)
+
+    chosen, seen = [], set()
+    for entry in [*by_share[: top - 3], *by_salience[:4]]:
+        if entry["hex"] not in seen:
+            seen.add(entry["hex"])
+            chosen.append(entry)
+
+    chosen.sort(key=lambda e: e["share"], reverse=True)
+    return chosen
 
 
 def rgb_to_hsv(rgb):
@@ -97,9 +151,12 @@ def describe(path):
         img = ImageOps.exif_transpose(raw)   # apply rotation so w/h are what you see
         img = img.convert("RGB")
         width, height = img.size
-        rgb = dominant_color(img)
-        hue, sat, val = rgb_to_hsv(rgb)
+        colors = palette(img)
         exif = read_exif(raw)
+        chromatic = [c for c in colors if not c["achromatic"]]
+        monochrome = not chromatic
+
+        # ... then in the returned dict:
 
     return {
         "file": path.relative_to(PHOTO_DIR).as_posix(),
@@ -108,13 +165,10 @@ def describe(path):
         "height": height,
         "aspect": round(width / height, 4),
         "orientation": "landscape" if width > height else "portrait" if height > width else "square",
-        "color": {
-            "rgb": list(rgb),
-            "hex": "#{:02x}{:02x}{:02x}".format(*rgb),
-            "hue": hue,
-            "saturation": sat,
-            "value": val,
-        },
+        "color": colors[0],
+        "accent": max(chromatic, key=lambda c: c["salience"]) if chromatic else None,
+        "monochrome": monochrome,
+        "palette": colors,
         "brightness": brightness(img),
         "exif": exif,
         "size_bytes": path.stat().st_size,
