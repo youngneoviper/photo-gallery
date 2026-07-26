@@ -87,6 +87,10 @@ def brightness(img):
     total = sum(0.299 * r + 0.587 * g + 0.114 * b for r, g, b in pixels)
     return round(total / len(pixels) / 255, 3)
 
+def collection_of(path):
+    """Top-level folder under photos/ — 'film', 'digital', 'charmera'."""
+    parts = path.relative_to(PHOTO_DIR).parts
+    return parts[0] if len(parts) > 1 else "uncategorized"
 
 def describe(path):
     with Image.open(path) as raw:
@@ -99,6 +103,7 @@ def describe(path):
 
     return {
         "file": path.relative_to(PHOTO_DIR).as_posix(),
+        "collection": collection_of(path),
         "width": width,
         "height": height,
         "aspect": round(width / height, 4),
@@ -133,7 +138,13 @@ def main():
     OUTPUT.write_text(json.dumps(records, indent=2))
 
     with_exif = sum(1 for r in records if r["exif"]["Model"])
+    from collections import Counter
+    by_collection = Counter(r["collection"] for r in records)
+    with_exif = sum(1 for r in records if r["exif"]["Model"])
+
     print(f"\nWrote {len(records)} records to {OUTPUT}")
+    for name, count in sorted(by_collection.items()):
+        print(f"  {name}: {count}")
     print(f"{with_exif}/{len(records)} have a camera model.")
 
 
