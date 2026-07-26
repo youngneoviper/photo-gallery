@@ -1,0 +1,182 @@
+[
+  {
+    "file": "DSCF2449.JPG",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        131,
+        102,
+        64
+      ],
+      "hex": "#836640",
+      "hue": 34.0,
+      "saturation": 0.511,
+      "value": 0.514
+    },
+    "brightness": 0.476,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 15:17:00",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 2.5,
+      "ExposureTime": 0.0013,
+      "FocalLength": 7.1,
+      "LensModel": null
+    },
+    "size_bytes": 5138683
+  },
+  {
+    "file": "DSCF2469.JPG",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        44,
+        48,
+        30
+      ],
+      "hex": "#2c301e",
+      "hue": 73.3,
+      "saturation": 0.375,
+      "value": 0.188
+    },
+    "brightness": 0.428,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 16:06:48",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 3.6,
+      "ExposureTime": 0.0012,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4552906
+  },
+  {
+    "file": "DSCF2498.JPG",
+    "width": 4000,
+    "height": 3000,
+    "aspect": 1.3333,
+    "orientation": "landscape",
+    "color": {
+      "rgb": [
+        84,
+        92,
+        128
+      ],
+      "hex": "#545c80",
+      "hue": 229.1,
+      "saturation": 0.344,
+      "value": 0.502
+    },
+    "brightness": 0.305,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 18:15:49",
+      "ISOSpeedRatings": 2500.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0167,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 4574599
+  },
+  {
+    "file": "DSCF2504.JPG",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        16,
+        12,
+        17
+      ],
+      "hex": "#100c11",
+      "hue": 288.0,
+      "saturation": 0.294,
+      "value": 0.067
+    },
+    "brightness": 0.142,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:10 19:26:03",
+      "ISOSpeedRatings": 3200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0667,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 3237696
+  },
+  {
+    "file": "DSCF2544.JPG",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        157,
+        147,
+        143
+      ],
+      "hex": "#9d938f",
+      "hue": 17.1,
+      "saturation": 0.089,
+      "value": 0.616
+    },
+    "brightness": 0.484,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:12 12:46:36",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 2.8,
+      "ExposureTime": 0.0011,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 5148699
+  },
+  {
+    "file": "DSCF2575.JPG",
+    "width": 3000,
+    "height": 4000,
+    "aspect": 0.75,
+    "orientation": "portrait",
+    "color": {
+      "rgb": [
+        136,
+        119,
+        80
+      ],
+      "hex": "#887750",
+      "hue": 41.8,
+      "saturation": 0.412,
+      "value": 0.533
+    },
+    "brightness": 0.452,
+    "exif": {
+      "Make": "FUJIFILM",
+      "Model": "XQ1",
+      "DateTimeOriginal": "2025:10:12 13:17:45",
+      "ISOSpeedRatings": 200.0,
+      "FNumber": 1.8,
+      "ExposureTime": 0.0045,
+      "FocalLength": 6.4,
+      "LensModel": null
+    },
+    "size_bytes": 5096079
+  }
+]
