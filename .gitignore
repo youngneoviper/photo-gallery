@@ -1,0 +1,16 @@
+# Virtual environment — thousands of files, and it's rebuildable
+# from a pip install. Never commit this.
+.venv/
+
+# Python bytecode cache — generated, machine-specific, noise.
+__pycache__/
+*.pyc
+
+# Your original photos. Full-size images bloat a repo permanently:
+# git keeps every version of every file forever, so a 4MB JPEG
+# committed twice is 8MB in history you can't easily remove.
+# We'll generate small web copies later and commit only those.
+photos/
+
+# macOS / editor cruft
+.DS_Store
