@@ -14,3 +14,13 @@ photos/
 
 # macOS / editor cruft
 .DS_Store
+
+# RAW formats — never commit these, they're enormous and unversionable
+*.raw
+*.cr2
+*.cr3
+*.nef
+*.arw
+*.dng
+*.orf
+*.rw2
